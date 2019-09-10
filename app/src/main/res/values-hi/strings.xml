@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Back">वापस</string>
+    <string name="Name">नाम</string>
+    <string name="app_name">एप्लिकेशन का नाम</string>
+    <string name="ChangeLanguage">change</string>
+    <string name="Password">pass</string>
+    <string name="Submit">submit</string>
+</resources>
